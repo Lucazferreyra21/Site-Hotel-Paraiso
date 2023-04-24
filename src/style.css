@@ -44,6 +44,8 @@ header li:last-child{margin-right: 0;}
 .hero{
     background-image: url(../img/hero.jpg);
     background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
     min-height: 100vh;
     color: #fff;
     display: flex;
